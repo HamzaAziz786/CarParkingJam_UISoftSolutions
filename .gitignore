@@ -53,9 +53,7 @@ ExportedObj/
 
 *.controller
 *.controller.meta
-*.meta
-*.cs
-*.mat
+
 
 
 *.bundle
