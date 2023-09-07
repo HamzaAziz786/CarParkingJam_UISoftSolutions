@@ -56,12 +56,7 @@ ExportedObj/
 *.meta
 *.cs
 *.mat
-*.png
-*.prefab
-*.fbx
-*.mp3
-*.anim
-*.dll
+
 
 *.bundle
 *.tga
