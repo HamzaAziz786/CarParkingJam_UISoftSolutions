@@ -62,12 +62,9 @@ ExportedObj/
 *.mp3
 *.anim
 *.dll
-*.ttf
-*.jpg
-*.asset
-*.material
-*.wav
+
 *.bundle
+*.tga
 *.psd
 *.tif
 
