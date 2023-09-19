@@ -135,7 +135,7 @@ public class LevelManager : MonoBehaviour
     private void Start()
     {
         LevelStart();
-        AdsManager.Instance.LogEvent("levelno_" + GameData.instance.GetLevelNumber());
+        //AdsManager.Instance.LogEvent("levelno_" + GameData.instance.GetLevelNumber());
     }
 
     public void LevelStart()

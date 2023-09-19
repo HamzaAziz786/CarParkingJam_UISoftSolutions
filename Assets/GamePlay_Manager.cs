@@ -65,7 +65,7 @@ public class GamePlay_Manager : MonoBehaviour
         Screen.orientation = ScreenOrientation.LandscapeLeft;
         num = MenuManager.LevelNum;
         num++;
-        AdsManager.Instance.LogEvent("level_" + num + "_started");
+       // AdsManager.Instance.LogEvent("level_" + num + "_started");
         //ShowBanner();
     }
     public void BtnClickSound()
@@ -121,7 +121,7 @@ public class GamePlay_Manager : MonoBehaviour
         FailPanel.SetActive(true);
         AudioListener.volume = 0;
 
-        AdsManager.Instance.LogEvent("level_" + num + "_failed");
+      //  AdsManager.Instance.LogEvent("level_" + num + "_failed");
         ShowInterstitial();
     }
     public void OnComplete()
@@ -140,7 +140,7 @@ public class GamePlay_Manager : MonoBehaviour
         {
             PlayerPrefs.SetInt("levels", PlayerPrefs.GetInt("levels") + 1);
         }
-        AdsManager.Instance.LogEvent("level_" + num + "_completed");
+      //  AdsManager.Instance.LogEvent("level_" + num + "_completed");
     }
     public void Restart()
     {
@@ -221,7 +221,7 @@ public class GamePlay_Manager : MonoBehaviour
     {
         if (PlayerPrefs.GetInt("removeads") == 0)
         {
-            AdsManager.Instance.ShowBannerAd();
+           // AdsManager.Instance.ShowBannerAd();
         }
     }
 
@@ -229,7 +229,7 @@ public class GamePlay_Manager : MonoBehaviour
     {
         if (PlayerPrefs.GetInt("removeads") == 0)
         {
-            AdsManager.Instance.HideBannerAd();
+            //AdsManager.Instance.HideBannerAd();
         }
     }
 
@@ -237,12 +237,12 @@ public class GamePlay_Manager : MonoBehaviour
     {
         if (PlayerPrefs.GetInt("removeads") == 0)
         {
-            AdsManager.Instance.ShowInterstitialLoading();
+            //AdsManager.Instance.ShowInterstitialLoading();
         }
     }
 
     public void WatchVideo()
     {
-        AdsManager.Instance.ShowRewardedVideoAd();
+        //AdsManager.Instance.ShowRewardedVideoAd();
     }
 }

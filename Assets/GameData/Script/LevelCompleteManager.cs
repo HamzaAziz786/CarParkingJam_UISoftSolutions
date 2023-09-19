@@ -56,7 +56,7 @@ public class LevelCompleteManager : MonoBehaviour
             {
                 GameManager.instance.SetLevelCompleteState();
 
-                AdsManager.Instance.ShowInterstitialLoading();
+               // AdsManager.Instance.ShowInterstitialLoading();
                 //print("Coins Adding");
                 GameCurrencyHandler.instance.AddToCoins(50);
 

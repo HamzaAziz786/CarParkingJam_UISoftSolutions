@@ -242,7 +242,7 @@ public class MenuManager : MonoBehaviour
     public void InApp_Purchase(string str)
     {
         BtnClickSound();
-        Purchaser.instance.BuyProduct(str);
+       // Purchaser.instance.BuyProduct(str);
     }
 
     public void OnStorePlayBtnClick()
@@ -340,7 +340,7 @@ public class MenuManager : MonoBehaviour
     {
         if (PlayerPrefs.GetInt("removeads") == 0)
         {
-            AdsManager.Instance.ShowBannerAd();
+            //AdsManager.Instance.ShowBannerAd();
         }
     }
 
@@ -348,7 +348,7 @@ public class MenuManager : MonoBehaviour
     {
         if (PlayerPrefs.GetInt("removeads") == 0)
         {
-            AdsManager.Instance.HideBannerAd();
+           // AdsManager.Instance.HideBannerAd();
         }
     }
 
@@ -356,7 +356,7 @@ public class MenuManager : MonoBehaviour
     {
         if (PlayerPrefs.GetInt("removeads") == 0)
         {
-            AdsManager.Instance.ShowInterstitialLoading();
+            //AdsManager.Instance.ShowInterstitialLoading();
         }
     }
 
@@ -365,6 +365,6 @@ public class MenuManager : MonoBehaviour
     public void WatchVideo()
     {
         BtnClickSound();
-        AdsManager.Instance.ShowRewardedVideoAd();
+       // AdsManager.Instance.ShowRewardedVideoAd();
     }
 }

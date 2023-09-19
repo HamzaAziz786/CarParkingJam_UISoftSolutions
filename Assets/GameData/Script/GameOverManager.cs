@@ -44,7 +44,7 @@ public class GameOverManager : MonoBehaviour
 
                 //UIManager will handle the UI On Off Setting using event system if consfusion? visit it
 
-                AdsManager.Instance.ShowInterstitialLoading();
+               // AdsManager.Instance.ShowInterstitialLoading();
 
 
                 int attempt = GameData.instance.GetLevelAttemptRate();

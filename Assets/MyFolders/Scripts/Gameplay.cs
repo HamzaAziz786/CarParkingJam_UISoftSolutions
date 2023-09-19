@@ -75,7 +75,7 @@ public class Gameplay : MonoBehaviour
         {
             int num = MenuManager.LevelNum2;
             num++;
-            AdsManager.Instance.LogEvent("school_level_" + num + "_" + str);
+            //AdsManager.Instance.LogEvent("school_level_" + num + "_" + str);
         }
         
     }
@@ -538,7 +538,7 @@ public class Gameplay : MonoBehaviour
     {
         if (PlayerPrefs.GetInt("removeads") == 0)
         {
-            AdsManager.Instance.ShowBannerAd();
+          //  AdsManager.Instance.ShowBannerAd();
         }
     }
 
@@ -546,7 +546,7 @@ public class Gameplay : MonoBehaviour
     {
         if (PlayerPrefs.GetInt("removeads") == 0)
         {
-            AdsManager.Instance.HideBannerAd();
+            //AdsManager.Instance.HideBannerAd();
         }
     }
 
@@ -554,7 +554,7 @@ public class Gameplay : MonoBehaviour
     {
         if (PlayerPrefs.GetInt("removeads") == 0)
         {
-            AdsManager.Instance.ShowInterstitialLoading();
+           // AdsManager.Instance.ShowInterstitialLoading();
         }
     }
 
@@ -562,14 +562,14 @@ public class Gameplay : MonoBehaviour
     {
         if (PlayerPrefs.GetInt("removeads") == 0)
         {
-            AdsManager.Instance.HideRectBannerAd();
+            //AdsManager.Instance.HideRectBannerAd();
         }
     }
     public void ShowRect()
     {
         if (PlayerPrefs.GetInt("removeads") == 0)
         {
-            AdsManager.Instance.ShowRectBannerAd();
+           // AdsManager.Instance.ShowRectBannerAd();
         }
     }
 
@@ -577,7 +577,7 @@ public class Gameplay : MonoBehaviour
     public void WatchVideo()
     {
         //BtnClickSound();
-        AdsManager.Instance.ShowRewardedVideoAd();
+        //AdsManager.Instance.ShowRewardedVideoAd();
     }
 
 }
