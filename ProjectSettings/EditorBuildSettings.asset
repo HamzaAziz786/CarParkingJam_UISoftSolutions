@@ -12,12 +12,6 @@ EditorBuildSettings:
     path: Assets/Scenes/MainMenu.unity
     guid: 577b83cf58cfb884eb687989bde84782
   - enabled: 1
-    path: Assets/Scenes/GamePlay.unity
-    guid: 9fc0d4010bbf28b4594072e72b8655ab
-  - enabled: 1
-    path: Assets/Scenes/Gameplay2.unity
-    guid: 5c74723525e4342a9840e5247e4863e0
-  - enabled: 1
     path: Assets/Scenes/ParkingJam.unity
     guid: 03a4de0ac57c8410aab4ffebbc38c38e
   m_configObjects: {}
