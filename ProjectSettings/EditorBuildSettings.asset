@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Splash.unity
+    guid: 83cd315cac8b4415d898cf3ef9e99cc9
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 577b83cf58cfb884eb687989bde84782
+  - enabled: 1
+    path: Assets/Scenes/ParkingJam.unity
+    guid: 03a4de0ac57c8410aab4ffebbc38c38e
+  m_configObjects: {}
