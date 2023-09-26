@@ -13,7 +13,7 @@ public class CarDetector : MonoBehaviour
         SoundsManager.instance.RoadFlip(SoundsManager.instance.AS);
 
         player.emojiCool.Play();
-       // player._Waypoint.startPoint = waypointNum;
+        player._Waypoint.startPoint = waypointNum;
         player._Waypoint.StartMove();
         other.GetComponent<Rigidbody>().isKinematic = true;
     }
