@@ -1,0 +1,1513 @@
+fileFormatVersion: 2
+guid: ab9f8c712834784498a6729e32f5544d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2290207844409241625
+    second: SPRITE SHEET FOR CAR JAM PARKING_0
+  - first:
+      213: 1353503566865597448
+    second: SPRITE SHEET FOR CAR JAM PARKING_1
+  - first:
+      213: 667072751997404761
+    second: SPRITE SHEET FOR CAR JAM PARKING_2
+  - first:
+      213: -3929826308102121328
+    second: SPRITE SHEET FOR CAR JAM PARKING_4
+  - first:
+      213: 6572885289896907693
+    second: SPRITE SHEET FOR CAR JAM PARKING_5
+  - first:
+      213: -3371801485334586018
+    second: SPRITE SHEET FOR CAR JAM PARKING_6
+  - first:
+      213: 4437788838876274503
+    second: SPRITE SHEET FOR CAR JAM PARKING_7
+  - first:
+      213: 4489857333994959175
+    second: SPRITE SHEET FOR CAR JAM PARKING_8
+  - first:
+      213: 5144793268142509575
+    second: SPRITE SHEET FOR CAR JAM PARKING_9
+  - first:
+      213: -7175929927360059431
+    second: SPRITE SHEET FOR CAR JAM PARKING_10
+  - first:
+      213: -9137315734187806773
+    second: SPRITE SHEET FOR CAR JAM PARKING_11
+  - first:
+      213: 584167365532212986
+    second: SPRITE SHEET FOR CAR JAM PARKING_12
+  - first:
+      213: 6388849615177990887
+    second: SPRITE SHEET FOR CAR JAM PARKING_13
+  - first:
+      213: -8061364087203761576
+    second: SPRITE SHEET FOR CAR JAM PARKING_14
+  - first:
+      213: 5431443162760431632
+    second: SPRITE SHEET FOR CAR JAM PARKING_15
+  - first:
+      213: 8714458039209018131
+    second: SPRITE SHEET FOR CAR JAM PARKING_16
+  - first:
+      213: -1982406853220411323
+    second: SPRITE SHEET FOR CAR JAM PARKING_17
+  - first:
+      213: -8069950957619382874
+    second: SPRITE SHEET FOR CAR JAM PARKING_18
+  - first:
+      213: 7988134049160389814
+    second: SPRITE SHEET FOR CAR JAM PARKING_19
+  - first:
+      213: 1749876115364567658
+    second: SPRITE SHEET FOR CAR JAM PARKING_20
+  - first:
+      213: 83018304662074012
+    second: SPRITE SHEET FOR CAR JAM PARKING_21
+  - first:
+      213: -2725458675415638648
+    second: SPRITE SHEET FOR CAR JAM PARKING_22
+  - first:
+      213: -2578120593173056807
+    second: SPRITE SHEET FOR CAR JAM PARKING_23
+  - first:
+      213: 8587941879904044694
+    second: SPRITE SHEET FOR CAR JAM PARKING_24
+  - first:
+      213: -5704768179751973695
+    second: SPRITE SHEET FOR CAR JAM PARKING_25
+  - first:
+      213: -6116711622862072704
+    second: SPRITE SHEET FOR CAR JAM PARKING_26
+  - first:
+      213: 3192243348736550924
+    second: SPRITE SHEET FOR CAR JAM PARKING_27
+  - first:
+      213: 765858009202818758
+    second: SPRITE SHEET FOR CAR JAM PARKING_3
+  - first:
+      213: 5368572004165502168
+    second: SPRITE SHEET FOR CAR JAM PARKING_28
+  - first:
+      213: 5585032351999433213
+    second: SPRITE SHEET FOR CAR JAM PARKING_29
+  - first:
+      213: -2969687463518746807
+    second: SPRITE SHEET FOR CAR JAM PARKING_30
+  - first:
+      213: -3398867350081391548
+    second: SPRITE SHEET FOR CAR JAM PARKING_31
+  - first:
+      213: -999702861577072372
+    second: SPRITE SHEET FOR CAR JAM PARKING_32
+  - first:
+      213: -7983120700494816259
+    second: SPRITE SHEET FOR CAR JAM PARKING_33
+  - first:
+      213: -152201508343367391
+    second: SPRITE SHEET FOR CAR JAM PARKING_34
+  - first:
+      213: 5681619718883637100
+    second: SPRITE SHEET FOR CAR JAM PARKING_35
+  - first:
+      213: 761031843135494565
+    second: SPRITE SHEET FOR CAR JAM PARKING_36
+  - first:
+      213: -3559140203029244360
+    second: SPRITE SHEET FOR CAR JAM PARKING_37
+  - first:
+      213: 6803532486994504773
+    second: SPRITE SHEET FOR CAR JAM PARKING_38
+  - first:
+      213: 307128108105549554
+    second: SPRITE SHEET FOR CAR JAM PARKING_39
+  - first:
+      213: -7578568775867476157
+    second: SPRITE SHEET FOR CAR JAM PARKING_40
+  - first:
+      213: -4552546848685498689
+    second: SPRITE SHEET FOR CAR JAM PARKING_41
+  - first:
+      213: -103980405177366993
+    second: SPRITE SHEET FOR CAR JAM PARKING_42
+  - first:
+      213: 869030681068874667
+    second: SPRITE SHEET FOR CAR JAM PARKING_43
+  - first:
+      213: -3860133106706189952
+    second: SPRITE SHEET FOR CAR JAM PARKING_44
+  - first:
+      213: 4179048340593494558
+    second: SPRITE SHEET FOR CAR JAM PARKING_45
+  - first:
+      213: 6515739254244867231
+    second: SPRITE SHEET FOR CAR JAM PARKING_46
+  - first:
+      213: -6510256991683002214
+    second: SPRITE SHEET FOR CAR JAM PARKING_47
+  - first:
+      213: 4053162234978193784
+    second: SPRITE SHEET FOR CAR JAM PARKING_48
+  - first:
+      213: 3319383797028088267
+    second: SPRITE SHEET FOR CAR JAM PARKING_49
+  - first:
+      213: -4624621779355734175
+    second: SPRITE SHEET FOR CAR JAM PARKING_50
+  - first:
+      213: 3064275596775769886
+    second: SPRITE SHEET FOR CAR JAM PARKING_51
+  - first:
+      213: 4186220558694994671
+    second: SPRITE SHEET FOR CAR JAM PARKING_52
+  - first:
+      213: 7640039737880581002
+    second: SPRITE SHEET FOR CAR JAM PARKING_53
+  - first:
+      213: -7057612367115763920
+    second: SPRITE SHEET FOR CAR JAM PARKING_54
+  - first:
+      213: -1555779538948306694
+    second: SPRITE SHEET FOR CAR JAM PARKING_55
+  - first:
+      213: 2128867880716309529
+    second: SPRITE SHEET FOR CAR JAM PARKING_56
+  - first:
+      213: -5287945517157160428
+    second: SPRITE SHEET FOR CAR JAM PARKING_57
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 0
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: 51
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SPRITE SHEET FOR CAR JAM PARKING_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 689
+        width: 71
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 26, y: 22, z: 26, w: 23}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91073d386e378cf10800000000000000
+      internalID: 2290207844409241625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE SHEET FOR CAR JAM PARKING_1
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 690
+        width: 187
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 75, y: 0, z: 47, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8048f39a25c98c210800000000000000
+      internalID: 1353503566865597448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE SHEET FOR CAR JAM PARKING_2
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 687
+        width: 220
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 84, y: 0, z: 48, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 956c526322be14900800000000000000
+      internalID: 667072751997404761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE SHEET FOR CAR JAM PARKING_4
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 578
+        width: 92
+        height: 91
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 31, y: 29, z: 29, w: 35}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 098969c3bc37679c0800000000000000
+      internalID: -3929826308102121328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE SHEET FOR CAR JAM PARKING_5
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 593
+        width: 287
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 99, y: 15, z: 110, w: 16}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da312b5b854973b50800000000000000
+      internalID: 6572885289896907693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE SHEET FOR CAR JAM PARKING_6
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 508
+        width: 180
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 61, y: 20, z: 64, w: 14}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5d5f75e964f431d0800000000000000
+      internalID: -3371801485334586018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE SHEET FOR CAR JAM PARKING_7
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 527
+        width: 179
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 61, y: 0, z: 60, w: 14}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74fd961cf61369d30800000000000000
+      internalID: 4437788838876274503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE SHEET FOR CAR JAM PARKING_8
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 387
+        width: 82
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 741b3fcf47d2f4e30800000000000000
+      internalID: 4489857333994959175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE SHEET FOR CAR JAM PARKING_9
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 460
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70e8476183af56740800000000000000
+      internalID: 5144793268142509575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE SHEET FOR CAR JAM PARKING_10
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 463
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d7eb9230c9f96c90800000000000000
+      internalID: -7175929927360059431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE SHEET FOR CAR JAM PARKING_11
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 367
+        width: 172
+        height: 116
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcfe52750cbb13180800000000000000
+      internalID: -9137315734187806773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE SHEET FOR CAR JAM PARKING_12
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 460
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afe5ce7bf116b1800800000000000000
+      internalID: 584167365532212986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE SHEET FOR CAR JAM PARKING_13
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 390
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e2431c10e0c9a850800000000000000
+      internalID: 6388849615177990887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE SHEET FOR CAR JAM PARKING_14
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 463
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 852f029d218402090800000000000000
+      internalID: -8061364087203761576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE SHEET FOR CAR JAM PARKING_15
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 390
+        width: 54
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0184f0e87cc506b40800000000000000
+      internalID: 5431443162760431632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE SHEET FOR CAR JAM PARKING_16
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 434
+        width: 35
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 313c91d5a69ffe870800000000000000
+      internalID: 8714458039209018131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE SHEET FOR CAR JAM PARKING_17
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 392
+        width: 83
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 21, y: 35, z: 25, w: 33}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5485f7168731d74e0800000000000000
+      internalID: -1982406853220411323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE SHEET FOR CAR JAM PARKING_18
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 384
+        width: 52
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a5f5484c56c10090800000000000000
+      internalID: -8069950957619382874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE SHEET FOR CAR JAM PARKING_19
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 394
+        width: 48
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b46862489d8bde60800000000000000
+      internalID: 7988134049160389814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE SHEET FOR CAR JAM PARKING_20
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 393
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6ade314e0fc84810800000000000000
+      internalID: 1749876115364567658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE SHEET FOR CAR JAM PARKING_21
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 393
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c92fc3f45b0f62100800000000000000
+      internalID: 83018304662074012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE SHEET FOR CAR JAM PARKING_22
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 394
+        width: 48
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88d18d956c93d2ad0800000000000000
+      internalID: -2725458675415638648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE SHEET FOR CAR JAM PARKING_23
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 394
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d2fccfdafca83cd0800000000000000
+      internalID: -2578120593173056807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE SHEET FOR CAR JAM PARKING_24
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 400
+        width: 99
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 28, y: 8, z: 27, w: 8}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 696816f83af7e2770800000000000000
+      internalID: 8587941879904044694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE SHEET FOR CAR JAM PARKING_25
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 242
+        width: 166
+        height: 106
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cc8eefc09794d0b0800000000000000
+      internalID: -5704768179751973695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE SHEET FOR CAR JAM PARKING_26
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 94
+        width: 224
+        height: 266
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 94, y: 67, z: 90, w: 86}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0849dcdcf231d1ba0800000000000000
+      internalID: -6116711622862072704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE SHEET FOR CAR JAM PARKING_27
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 128
+        width: 165
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c08ab0699602d4c20800000000000000
+      internalID: 3192243348736550924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE SHEET FOR CAR JAM PARKING_3
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 680
+        width: 249
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 75, y: 0, z: 69, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cefbea3dcfd0aa00800000000000000
+      internalID: 765858009202818758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE SHEET FOR CAR JAM PARKING_28
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 681
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d4446b3bcff08a40800000000000000
+      internalID: 5368572004165502168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE SHEET FOR CAR JAM PARKING_29
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 680
+        width: 73
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 24, y: 24, z: 21, w: 20}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df99df75555028d40800000000000000
+      internalID: 5585032351999433213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE SHEET FOR CAR JAM PARKING_30
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 696
+        width: 63
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 947c80b6cfc89c6d0800000000000000
+      internalID: -2969687463518746807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE SHEET FOR CAR JAM PARKING_31
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 624
+        width: 56
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 444b9bf272cc4d0d0800000000000000
+      internalID: -3398867350081391548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE SHEET FOR CAR JAM PARKING_32
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 614
+        width: 48
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c01d1c64b875022f0800000000000000
+      internalID: -999702861577072372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE SHEET FOR CAR JAM PARKING_33
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 609
+        width: 50
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfb50ffe402463190800000000000000
+      internalID: -7983120700494816259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE SHEET FOR CAR JAM PARKING_34
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 616
+        width: 53
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1293ae8d88543edf0800000000000000
+      internalID: -152201508343367391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE SHEET FOR CAR JAM PARKING_35
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 617
+        width: 45
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c67f9e4280b29de40800000000000000
+      internalID: 5681619718883637100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE SHEET FOR CAR JAM PARKING_36
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 581
+        width: 87
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a91ad0ed6abf8a00800000000000000
+      internalID: 761031843135494565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE SHEET FOR CAR JAM PARKING_37
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 631
+        width: 165
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83651aca7d46b9ec0800000000000000
+      internalID: -3559140203029244360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE SHEET FOR CAR JAM PARKING_38
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 588
+        width: 29
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54c232110c00b6e50800000000000000
+      internalID: 6803532486994504773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE SHEET FOR CAR JAM PARKING_39
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 585
+        width: 47
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f64b281363234400800000000000000
+      internalID: 307128108105549554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE SHEET FOR CAR JAM PARKING_40
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 578
+        width: 38
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3475d80f9d383d690800000000000000
+      internalID: -7578568775867476157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE SHEET FOR CAR JAM PARKING_41
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 584
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbed6c4f2ca12d0c0800000000000000
+      internalID: -4552546848685498689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE SHEET FOR CAR JAM PARKING_42
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 589
+        width: 62
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f264dc55f569e8ef0800000000000000
+      internalID: -103980405177366993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE SHEET FOR CAR JAM PARKING_43
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 489
+        width: 83
+        height: 99
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baba604dcca6f0c00800000000000000
+      internalID: 869030681068874667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE SHEET FOR CAR JAM PARKING_44
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 490
+        width: 84
+        height: 100
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0817d0d246d0e6ac0800000000000000
+      internalID: -3860133106706189952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE SHEET FOR CAR JAM PARKING_45
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 514
+        width: 60
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1ac2400356fef930800000000000000
+      internalID: 4179048340593494558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE SHEET FOR CAR JAM PARKING_46
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 520
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9c7552745e8c6a50800000000000000
+      internalID: 6515739254244867231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE SHEET FOR CAR JAM PARKING_47
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 541
+        width: 309
+        height: 29
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 89, y: 8, z: 122, w: 8}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a904b3642cbe6a5a0800000000000000
+      internalID: -6510256991683002214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE SHEET FOR CAR JAM PARKING_48
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 517
+        width: 296
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87157e00499bf3830800000000000000
+      internalID: 4053162234978193784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE SHEET FOR CAR JAM PARKING_49
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 463
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc9eb0ff9f1d01e20800000000000000
+      internalID: 3319383797028088267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE SHEET FOR CAR JAM PARKING_50
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 466
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16f67f47efa02dfb0800000000000000
+      internalID: -4624621779355734175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE SHEET FOR CAR JAM PARKING_51
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 458
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e17c7b78b6e768a20800000000000000
+      internalID: 3064275596775769886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE SHEET FOR CAR JAM PARKING_52
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 448
+        width: 53
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe2d3782b61781a30800000000000000
+      internalID: 4186220558694994671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE SHEET FOR CAR JAM PARKING_53
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 458
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a839d36b9afd60a60800000000000000
+      internalID: 7640039737880581002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE SHEET FOR CAR JAM PARKING_54
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 457
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03f39a7e1f25e0e90800000000000000
+      internalID: -7057612367115763920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE SHEET FOR CAR JAM PARKING_55
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 452
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af84a2090c2c86ae0800000000000000
+      internalID: -1555779538948306694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE SHEET FOR CAR JAM PARKING_56
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 444
+        width: 39
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91495dbee024b8d10800000000000000
+      internalID: 2128867880716309529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE SHEET FOR CAR JAM PARKING_57
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 459
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41a6a32a1917d96b0800000000000000
+      internalID: -5287945517157160428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: ded9795070727c04b9bcac5609c9db8b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -7,7 +7,7 @@ public class PlayerSelected : MonoBehaviour
     
     public void SelectedPlayer()
     {
-        player.Car.mass = 1;
+       // player.Car.mass = 1;
         player.Car.isKinematic = false;
         player_transfer.player_transfer(player);
     }

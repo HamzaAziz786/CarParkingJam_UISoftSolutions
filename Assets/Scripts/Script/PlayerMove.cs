@@ -31,12 +31,12 @@ public class PlayerMove : MonoBehaviour
         {
             print("RayCast Trigger");
             _Waypoint.Pause();
-            //Debug.DrawRay(transform.position, Vector3.forward, Color.green, Mathf.Infinity);
+            Debug.DrawRay(transform.position, Vector3.forward, Color.green, Mathf.Infinity);
         }
         else
         {
                 
-            //_Waypoint.StartMove();
+           // _Waypoint.StartMove();
             StartCoroutine(Delay());
             //moving = false;
         }
