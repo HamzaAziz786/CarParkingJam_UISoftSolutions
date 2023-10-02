@@ -30,7 +30,7 @@ public class PlayerMove : MonoBehaviour
         if (Physics.Raycast(transform.position, _movPos, out _hit, 10f, layer))
         {
             print("RayCast Trigger");
-            _Waypoint.Pause();
+            //_Waypoint.Pause();
             Debug.DrawRay(transform.position, Vector3.forward, Color.green, Mathf.Infinity);
         }
         else

@@ -42,6 +42,7 @@ public class GameManager : MonoBehaviour
 
     private void Start()
     {
+        HamzaFunction();
         LevelManager.Instance.levelCreateFuncEvent += SetGamePlayLevelNumber;
 
         Screen.orientation = ScreenOrientation.Portrait;
@@ -53,16 +54,21 @@ public class GameManager : MonoBehaviour
         LevelManager.Instance.levelCreateFuncEvent -= SetGamePlayLevelNumber;
     }
 
-    private void SetGamePlayLevelNumber(int Level)
+    private void  SetGamePlayLevelNumber(int Level)
     {
         CurrentLevel = Level;
+        
+
     }
 
     private void SetMainMenuState()
     {
         gamestate = GameState.MainMenu;
     }
-
+    public void HamzaFunction()
+    {
+        Debug.Log("HamzaAziz");
+    }
     private void SetGamePlayState()
     {
         gamestate = GameState.GamePlay;
