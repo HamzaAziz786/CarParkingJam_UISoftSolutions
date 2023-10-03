@@ -176,6 +176,9 @@ TextureImporter:
   - first:
       213: -5287945517157160428
     second: SPRITE SHEET FOR CAR JAM PARKING_57
+  - first:
+      213: -8443032757541729555
+    second: SPRITE SHEET FOR CAR JAM PARKING_58
   externalObjects: {}
   serializedVersion: 12
   mipmaps:
@@ -408,9 +411,9 @@ TextureImporter:
       rect:
         serializedVersion: 2
         x: 198
-        y: 527
+        y: 507
         width: 179
-        height: 42
+        height: 62
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 61, y: 0, z: 60, w: 14}
@@ -1037,10 +1040,10 @@ TextureImporter:
       name: SPRITE SHEET FOR CAR JAM PARKING_36
       rect:
         serializedVersion: 2
-        x: 111
-        y: 581
-        width: 87
-        height: 98
+        x: 448
+        y: 171
+        width: 169
+        height: 176
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1165,7 +1168,7 @@ TextureImporter:
         serializedVersion: 2
         x: 719
         y: 589
-        width: 62
+        width: 27
         height: 24
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -1491,6 +1494,27 @@ TextureImporter:
       bones: []
       spriteID: 41a6a32a1917d96b0800000000000000
       internalID: -5287945517157160428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE SHEET FOR CAR JAM PARKING_58
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 589
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dea0dbba07254da80800000000000000
+      internalID: -8443032757541729555
       vertices: []
       indices: 
       edges: []
