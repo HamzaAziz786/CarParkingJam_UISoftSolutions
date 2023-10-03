@@ -24,13 +24,13 @@ public class UIManager : MonoBehaviour
     private void Awake()
     {
         Instance = this;
-        AnimateGamePlayLevelNumber(1000f, 0, Ease.Linear);
-        AnimateCoinTextParent(1000f, 0, Ease.Linear);
+        //AnimateGamePlayLevelNumber(1000f, 0, Ease.Linear);
+        //AnimateCoinTextParent(1000f, 0, Ease.Linear);
     }
     private void Start()
     {
-        AnimateGamePlayLevelNumber(-300f, 1f, Ease.Linear);
-        AnimateCoinTextParent(-300f, 1f, Ease.Linear);
+        //AnimateGamePlayLevelNumber(-300f, 1f, Ease.Linear);
+        //AnimateCoinTextParent(-300f, 1f, Ease.Linear);
         LevelManager.Instance.levelCreateFuncEvent += SetGamePlayLevelNumberText;
         GameManager.Instance.GameStarFuncEvent += SetGameStartUI;
         GameManager.Instance.GameResetFuncEvent += SetGameResetUI;
@@ -55,7 +55,7 @@ public class UIManager : MonoBehaviour
         GamePlayDialogue.gameObject.SetActive(false);
         GameOverDialogue.gameObject.SetActive(false);
         LevelCompleteDialogue.gameObject.SetActive(false);
-        AnimateGamePlayLevelNumber(-250f, 1f, Ease.Linear);
+        //AnimateGamePlayLevelNumber(-250f, 1f, Ease.Linear);
 
     }
 
@@ -64,7 +64,7 @@ public class UIManager : MonoBehaviour
         LevelCompleteDialogue.gameObject.SetActive(true);
         MainMenuDialogue.gameObject.SetActive(false);
         GamePlayDialogue.gameObject.SetActive(false);
-        AnimateGamePlayLevelNumber(1000f, 1f, Ease.Linear);
+        //AnimateGamePlayLevelNumber(1000f, 1f, Ease.Linear);
 
 
     }
@@ -74,8 +74,8 @@ public class UIManager : MonoBehaviour
         GameOverDialogue.gameObject.SetActive(true);
         MainMenuDialogue.gameObject.SetActive(false);
         GamePlayDialogue.gameObject.SetActive(false);
-        AnimateGamePlayLevelNumber(1000f, 1f, Ease.Linear);
-        AnimateCoinTextParent(1000f, 1f, Ease.Linear);
+        //AnimateGamePlayLevelNumber(1000f, 1f, Ease.Linear);
+        //AnimateCoinTextParent(1000f, 1f, Ease.Linear);
     }
 
     private void AnimateGamePlayLevelNumber(float yPos, float speed, Ease ease)

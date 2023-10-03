@@ -2234,15 +2234,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 763ece8942ea84270945176a0cda9e58, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ObjToPosition:
-  - {fileID: 1582339452}
-  - {fileID: 1423625456}
-  PositionsStart:
-  - {x: -1500, y: 450, z: 0}
-  - {x: -1500, y: -250, z: 0}
-  PositionsEnd:
-  - {x: 0, y: 450, z: 0}
-  - {x: 0, y: -250, z: 0}
+  ObjToPosition: []
+  PositionsStart: []
+  PositionsEnd: []
   speed: 0.5
   OnEnableBool: 1
   DelayFactor: 0.1
@@ -3323,12 +3317,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 763ece8942ea84270945176a0cda9e58, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ObjToPosition:
-  - {fileID: 1934370719}
-  PositionsStart:
-  - {x: 150, y: 1000, z: 0}
-  PositionsEnd:
-  - {x: 150, y: -300, z: 0}
+  ObjToPosition: []
+  PositionsStart: []
+  PositionsEnd: []
   speed: 0.5
   OnEnableBool: 1
   DelayFactor: 0.1
@@ -3841,7 +3832,7 @@ MonoBehaviour:
   MainMenuDialogue: {fileID: 1906378477}
   GamePlayDialogue: {fileID: 954619170}
   GamePlayLevelNumberParent: {fileID: 1834832551}
-  GamePlayLevelNumberText: {fileID: 974391593}
+  GamePlayLevelNumberText: {fileID: 442421874}
   LevelCompleteDialogue: {fileID: 1558047423}
   GameOverDialogue: {fileID: 605215848}
 --- !u!1 &1099690342
@@ -5405,10 +5396,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   ScaleStart: {x: 0, y: 0, z: 0}
   ScaleEnd: {x: 1, y: 1, z: 1}
-  ObjToScale:
-  - {fileID: 298762509}
-  - {fileID: 2031330395}
-  - {fileID: 877789095}
+  ObjToScale: []
   speed: 0.25
   OnEnableBool: 1
   DelayFactor: 0.25
@@ -5426,15 +5414,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 763ece8942ea84270945176a0cda9e58, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ObjToPosition:
-  - {fileID: 2033047304}
-  - {fileID: 1980327344}
-  PositionsStart:
-  - {x: -1500, y: 252, z: 0}
-  - {x: -1500, y: -250, z: 0}
-  PositionsEnd:
-  - {x: 0, y: 252, z: 0}
-  - {x: 0, y: -250, z: 0}
+  ObjToPosition: []
+  PositionsStart: []
+  PositionsEnd: []
   speed: 1
   OnEnableBool: 1
   DelayFactor: 0.1
@@ -6282,15 +6264,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 763ece8942ea84270945176a0cda9e58, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ObjToPosition:
-  - {fileID: 248917218}
-  - {fileID: 1834832551}
-  PositionsStart:
-  - {x: -150, y: 1000, z: 0}
-  - {x: -550, y: 1000, z: 0}
-  PositionsEnd:
-  - {x: -150, y: -300, z: 0}
-  - {x: -550, y: -300, z: 0}
+  ObjToPosition: []
+  PositionsStart: []
+  PositionsEnd: []
   speed: 0.5
   OnEnableBool: 1
   DelayFactor: 0.1
