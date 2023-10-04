@@ -3888,7 +3888,7 @@ MonoBehaviour:
   levelCompleteManager: {fileID: 140679412}
   gameOverManager: {fileID: 100175343}
   CurrentLevel: 0
-  Tutorial: {fileID: 0}
+  Tutorial: {fileID: 6187936456259487557, guid: 5baf4a46c10f42a41b2fc07f9ee1264a, type: 3}
 --- !u!4 &1107795153
 Transform:
   m_ObjectHideFlags: 0
@@ -5850,27 +5850,21 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e6176afe25881485fa96ccee3bda9bf7, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  levelWinSound: {fileID: 8300000, guid: 765ae67bf56674bfb8399e8465ded3bc, type: 3}
-  levelFailSound: {fileID: 8300000, guid: 4caf43469d54a4dcaa784cee074c7599, type: 3}
+  levelWinSound: {fileID: 8300000, guid: 5a4bc0c9a3aa7fe4b83162825c2e4aec, type: 3}
+  levelFailSound: {fileID: 8300000, guid: 6fccd22992f16ce4880048358d866cd0, type: 3}
   coinCollectSounds:
-  - {fileID: 8300000, guid: c108c0bf46b904f98aacc599564cef50, type: 3}
-  - {fileID: 8300000, guid: e7cd7a2c923224c23b2a77cfdb2b98a9, type: 3}
+  - {fileID: 8300000, guid: 2674e96455b0e5f48a82b6089ce272a4, type: 3}
+  - {fileID: 8300000, guid: 2674e96455b0e5f48a82b6089ce272a4, type: 3}
   bonusCollectSounds:
-  - {fileID: 8300000, guid: 7af102159aa9043aa826c436ca20e913, type: 3}
-  - {fileID: 8300000, guid: e5cb779ac1a9947fcbfb07e80673c713, type: 3}
-  buttonClipSound: {fileID: 8300000, guid: f78cef9f7e8f842088fd35da5cfc625a, type: 3}
-  gemCollectSound: {fileID: 8300000, guid: 2e4c066f43dcc4590850ba551d932f21, type: 3}
-  humanKillSounds:
-  - {fileID: 8300000, guid: 68109ba00cf6d4c5ebc84d57adf3d884, type: 3}
-  - {fileID: 8300000, guid: fa1bc633be29a4105bc2e613503c634d, type: 3}
-  - {fileID: 8300000, guid: a0c59756d6c524eb0900cae0c7f78455, type: 3}
-  - {fileID: 8300000, guid: 4600b11d37fa24b939392785638aad80, type: 3}
-  - {fileID: 8300000, guid: 1a9c642592dc24c4eb8acde31fbff083, type: 3}
-  - {fileID: 8300000, guid: 0d55f58463ad64a1a81980efc3b244ad, type: 3}
+  - {fileID: 8300000, guid: 2674e96455b0e5f48a82b6089ce272a4, type: 3}
+  - {fileID: 8300000, guid: 2674e96455b0e5f48a82b6089ce272a4, type: 3}
+  buttonClipSound: {fileID: 8300000, guid: 4fa7c4d7c61956141aa034d690ad5180, type: 3}
+  gemCollectSound: {fileID: 8300000, guid: 2674e96455b0e5f48a82b6089ce272a4, type: 3}
+  humanKillSounds: []
   selectionSound: {fileID: 8300000, guid: 6f8a66fb75da3449aab5599fce12dcf1, type: 3}
-  hitSound: {fileID: 8300000, guid: 7e059a38cc3ce4044842c6e1f2b29c34, type: 3}
-  backGroundSound: {fileID: 8300000, guid: 2ef4341abadd049a99594af20772b206, type: 3}
-  achivementSound: {fileID: 8300000, guid: a21d2d8e32c61499dbd1a2118f567800, type: 3}
+  hitSound: {fileID: 8300000, guid: 6fccd22992f16ce4880048358d866cd0, type: 3}
+  backGroundSound: {fileID: 8300000, guid: dab3ca9270054ce4d8daadbd72174653, type: 3}
+  achivementSound: {fileID: 8300000, guid: 5a4bc0c9a3aa7fe4b83162825c2e4aec, type: 3}
   AS: {fileID: 1648453575}
   Road: {fileID: 8300000, guid: c837a194ff0629248a189e686a3fc4f1, type: 3}
   Mud: {fileID: 8300000, guid: c837a194ff0629248a189e686a3fc4f1, type: 3}
@@ -5885,7 +5879,7 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 0}
+  m_audioClip: {fileID: 8300000, guid: dab3ca9270054ce4d8daadbd72174653, type: 3}
   m_PlayOnAwake: 0
   m_Volume: 1
   m_Pitch: 1
