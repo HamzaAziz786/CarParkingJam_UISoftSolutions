@@ -12,13 +12,10 @@ public class Splash : MonoBehaviour
 
     private void Start()
     {
-
-        Screen.orientation = ScreenOrientation.LandscapeLeft;
-
-
         Screen.sleepTimeout = SleepTimeout.NeverSleep;
+        Screen.orientation = ScreenOrientation.Portrait;
 
-        if(PlayerPrefs.GetInt("Once") == 0)
+        if (PlayerPrefs.GetInt("Once") == 0)
         {
             PrivacyPanel.SetActive(true);
 
