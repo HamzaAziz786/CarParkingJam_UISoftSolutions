@@ -15,23 +15,33 @@ public class SoundsManager : MonoBehaviour
     public AudioClip backGroundSound;
     public AudioClip achivementSound;
     public AudioSource AS;
+    public AudioSource bg;
     public AudioClip Road, Mud;
     public AudioClip confeetti;
-
+    public AudioSource audioSource;
+    public AudioClip clip;
+    public float volume = 0.5f;
     private void Awake()
     {
         instance = this;
     }
-
+    private void Start()
+    {
+        PlayBackGroundSound(bg);
+    }
+    public void PlayClipH()
+    {
+        audioSource.PlayOneShot(buttonClipSound);
+    }
     private static void PlaySound(AudioClip a, AudioSource @as)
     {
 
-        if (a == null)
-            return;
-        if (@as == null)
-            return;
-        if (@as.mute)
-            return;
+        //if (a == null)
+        //    return;
+        //if (@as == null)
+        //    return;
+        //if (@as.mute)
+        //    return;
 
         @as.clip = a;
         @as.loop = false;
@@ -69,8 +79,8 @@ public class SoundsManager : MonoBehaviour
 
     public void PlayButtonClipSound(AudioSource @as)
     {
-        if (@as == null)
-            return;
+        ////if (@as == null)
+        ////    return;
         @as.volume = 1f;
         PlaySound(buttonClipSound, @as);
     }
