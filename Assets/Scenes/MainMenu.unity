@@ -2912,10 +2912,10 @@ RectTransform:
   m_Father: {fileID: 2036406798}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 1, y: 1}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 0, y: 0}
+  m_SizeDelta: {x: 1280, y: 2632}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &211222824
 MonoBehaviour:
@@ -7806,10 +7806,10 @@ RectTransform:
   m_Father: {fileID: 440099033}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 1, y: 1}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 0, y: 0}
+  m_SizeDelta: {x: 1280, y: 2632}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &609667185
 MonoBehaviour:
@@ -15601,10 +15601,10 @@ RectTransform:
   m_Father: {fileID: 173108165}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 1, y: 1}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 0, y: 0}
+  m_SizeDelta: {x: 1280, y: 2632}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1177709772
 MonoBehaviour:
@@ -23343,10 +23343,10 @@ RectTransform:
   m_Father: {fileID: 530379852}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0, y: 0}
-  m_AnchorMax: {x: 1, y: 1}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 0, y: 0}
+  m_SizeDelta: {x: 1280, y: 2632}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1772130079
 MonoBehaviour:
@@ -23655,7 +23655,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 1, y: 1}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -202.9, y: -106.80005}
+  m_AnchoredPosition: {x: -202.89996, y: -106.80005}
   m_SizeDelta: {x: 301, y: 94}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1806806106
