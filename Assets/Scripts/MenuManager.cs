@@ -2,6 +2,8 @@
 using UnityEngine;
 using UnityEngine.SceneManagement;
 using UnityEngine.UI;
+using DG.Tweening;
+using UnityEngine.UIElements.Experimental;
 
 public class MenuManager : MonoBehaviour
 {
@@ -63,7 +65,7 @@ public class MenuManager : MonoBehaviour
 
     public void BtnClickSound()
     {
-        if (PlayerPrefs.GetInt("sound") == 0)
+      //  if (PlayerPrefs.GetInt("sound") == 0)
             BtnClickSource.PlayOneShot(BtnClip);
     }
     
@@ -208,5 +210,23 @@ public class MenuManager : MonoBehaviour
     public void WatchVideo()
     {
         BtnClickSound();
+    }
+    public void ClosePanel(GameObject Panel)
+    {
+        Panel.transform.DOScale(0, .5f).OnComplete(() => PanelOFF(Panel)).SetEase(Ease.OutBounce); 
+    }
+
+    public void PanelOFF(GameObject paneloff)
+    {
+        //paneloff.SetActive(false);
+    }
+    public void OpenPanel(GameObject Panel)
+    {
+        Panel.transform.DOScale(1, .5f).OnComplete(() => PanelON(Panel)).SetEase(Ease.OutBounce);
+    }
+
+    public void PanelON(GameObject paneloff)
+    {
+        paneloff.SetActive(true);
     }
 }
