@@ -10,7 +10,7 @@ public class CarDetector : MonoBehaviour
         player = other.GetComponent<PlayerMove>();
         player.moving = true;
         player.OnRoadDetection.SetActive(true);
-        SoundsManager.instance.RoadFlip(SoundsManager.instance.AS);
+        //SoundsManager.instance.RoadFlip(SoundsManager.instance.AS);
 
         player.emojiCool.Play();
         //player._Waypoint.startPoint = waypointNum;

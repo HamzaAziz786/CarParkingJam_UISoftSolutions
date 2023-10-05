@@ -65,14 +65,17 @@ public class PlayerMove : MonoBehaviour
     public void MoveRight()
     {
         _movPos = Vector3.forward;
-         StartCoroutine(Right_Left(speed));
+        SoundsManager.instance.PlaySelectionSound(SoundsManager.instance.AS);
+        StartCoroutine(Right_Left(speed));
+
     }
 
 
     public void MoveLeft()
     {
         _movPos = Vector3.back;
-         StartCoroutine(Right_Left(-speed));
+        SoundsManager.instance.PlaySelectionSound(SoundsManager.instance.AS);
+        StartCoroutine(Right_Left(-speed));
     }
 
 

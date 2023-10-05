@@ -65,11 +65,11 @@ public class CurrencyAnimationHandler : MonoBehaviour
 
     private IEnumerator PlaySounds()
     {
-       for(var i = 0; i < 10; i++)
-       {
+       //for(var i = 0; i < 10; i++)
+       //{
            yield return new WaitForSeconds(0.1f);
            sound[0].PlayOneShot(clip);
-       }
+       //}
     }
 
     private static IEnumerator OnOffObj(GameObject obj, bool value, float time)
