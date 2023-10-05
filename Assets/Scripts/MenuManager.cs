@@ -218,7 +218,7 @@ public class MenuManager : MonoBehaviour
 
     public void PanelOFF(GameObject paneloff)
     {
-        //paneloff.SetActive(false);
+       // paneloff.SetActive(false);
     }
     public void OpenPanel(GameObject Panel)
     {
@@ -227,6 +227,6 @@ public class MenuManager : MonoBehaviour
 
     public void PanelON(GameObject paneloff)
     {
-        paneloff.SetActive(true);
+       // paneloff.SetActive(true);
     }
 }
