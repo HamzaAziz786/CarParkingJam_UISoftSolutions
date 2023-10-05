@@ -13,7 +13,7 @@ public class Splash : MonoBehaviour
     private void Start()
     {
 
-        Screen.orientation = ScreenOrientation.LandscapeLeft;
+       
 
 
         Screen.sleepTimeout = SleepTimeout.NeverSleep;

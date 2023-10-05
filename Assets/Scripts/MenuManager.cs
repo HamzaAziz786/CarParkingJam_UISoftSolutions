@@ -48,7 +48,7 @@ public class MenuManager : MonoBehaviour
         AudioListener.volume = PlayerPrefs.GetFloat("volume");
 
         Screen.sleepTimeout = SleepTimeout.NeverSleep;
-        Screen.orientation = ScreenOrientation.LandscapeLeft;
+        
 
     }
 
