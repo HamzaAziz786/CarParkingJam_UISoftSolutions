@@ -36,6 +36,7 @@ namespace NiobiumStudios
         [Header("Panel Reward")]
         public Button buttonClaim;                  // Claim Button
         public GameObject[] DailyBtns, ClaimedBtns;
+        public Text amountreward;
         //public Button buttonClose;                  // Close Button
         //public Button buttonCloseWindow;            // Close Button on the upper right corner
         public Text textTimeDue;                    // Text showing how long until the next claim
@@ -135,6 +136,7 @@ namespace NiobiumStudios
             //if (num > 0)
             //    num--;
             ClaimedBtns[lastReward].SetActive(true);
+            amountreward.text = DailyRewards.instance.rewards[availableReward - 1].ToString();
             foreach (var dailyRewardUI in dailyRewardsUI)
             {
                 var day = dailyRewardUI.day;
