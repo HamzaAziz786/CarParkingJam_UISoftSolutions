@@ -213,7 +213,7 @@ public class MenuManager : MonoBehaviour
     }
     public void ClosePanel(GameObject Panel)
     {
-        Panel.transform.DOScale(0, .5f).OnComplete(() => PanelOFF(Panel)).SetEase(Ease.Linear); 
+        Panel.transform.DOScale(0, .2f).OnComplete(() => PanelOFF(Panel)).SetEase(Ease.Linear); 
     }
 
     public void PanelOFF(GameObject paneloff)
@@ -222,7 +222,7 @@ public class MenuManager : MonoBehaviour
     }
     public void OpenPanel(GameObject Panel)
     {
-        Panel.transform.DOScale(1, .5f).OnComplete(() => PanelON(Panel)).SetEase(Ease.Linear);
+        Panel.transform.DOScale(1, .2f).OnComplete(() => PanelON(Panel)).SetEase(Ease.Linear);
     }
 
     public void PanelON(GameObject paneloff)
