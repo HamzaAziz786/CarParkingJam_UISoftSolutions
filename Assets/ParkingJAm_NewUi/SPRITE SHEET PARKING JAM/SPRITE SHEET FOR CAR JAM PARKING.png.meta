@@ -197,6 +197,15 @@ TextureImporter:
   - first:
       213: -9196621095200518267
     second: SPRITE SHEET FOR CAR JAM PARKING_64
+  - first:
+      213: 9078895236065214871
+    second: SPRITE SHEET FOR CAR JAM PARKING_65
+  - first:
+      213: 5166988576130697275
+    second: SPRITE SHEET FOR CAR JAM PARKING_66
+  - first:
+      213: 7094724130613235377
+    second: SPRITE SHEET FOR CAR JAM PARKING_67
   externalObjects: {}
   serializedVersion: 12
   mipmaps:
@@ -1659,6 +1668,69 @@ TextureImporter:
       bones: []
       spriteID: 58f85b6f6d90f5080800000000000000
       internalID: -9196621095200518267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE SHEET FOR CAR JAM PARKING_65
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 190
+        width: 57
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79147aa7d17befd70800000000000000
+      internalID: 9078895236065214871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE SHEET FOR CAR JAM PARKING_66
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 191
+        width: 61
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3885ceebb4d4b740800000000000000
+      internalID: 5166988576130697275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE SHEET FOR CAR JAM PARKING_67
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 187
+        width: 53
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1be0890e106857260800000000000000
+      internalID: 7094724130613235377
       vertices: []
       indices: 
       edges: []
