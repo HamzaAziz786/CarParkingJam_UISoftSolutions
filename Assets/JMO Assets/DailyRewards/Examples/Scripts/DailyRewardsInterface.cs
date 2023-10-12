@@ -136,7 +136,7 @@ namespace NiobiumStudios
             //if (num > 0)
             //    num--;
             ClaimedBtns[lastReward].SetActive(true);
-            amountreward.text = DailyRewards.instance.rewards[availableReward - 1].ToString();
+          
             foreach (var dailyRewardUI in dailyRewardsUI)
             {
                 var day = dailyRewardUI.day;
