@@ -93,7 +93,7 @@ public class MenuManager : MonoBehaviour
     public void RateUs()
     {
         BtnClickSound();
-        Application.OpenURL("https://play.google.com/store/apps/details?id=" + Application.identifier);
+        Application.OpenURL("https://play.google.com/store/apps/dev?id=" + Application.identifier);
     }
 
     //---------Back Btn Functions------------------------------------------------------------------------

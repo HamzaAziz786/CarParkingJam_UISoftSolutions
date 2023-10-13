@@ -38,7 +38,7 @@ public class Splash : MonoBehaviour
     
     public void PolicyLinkOpen()
     {
-        Application.OpenURL("https://sites.google.com/view/offline-games-production/home");
+        Application.OpenURL("https://sites.google.com/view/parkinggamesarena/home");
     }
 
 
