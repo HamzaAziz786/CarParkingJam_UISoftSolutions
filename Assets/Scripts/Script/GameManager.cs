@@ -125,11 +125,11 @@ public class GameManager : MonoBehaviour
     }
     public void Pause()
     {
-        Time.timeScale = 0;
+        SoundsManager.instance.StopMusic();
     }
     public void Resume()
     {
-        Time.timeScale = 1;
+        SoundsManager.instance.StartMusic();
     }
     public void SkipLevel()
     {
@@ -200,6 +200,7 @@ public class GameManager : MonoBehaviour
     }
     public void NextLevel()
     {
+
         var lvl = GameData.GetLevelNumber();
         if ((lvl % (LevelManager.Instance.Levels.Count) == 0))
         {

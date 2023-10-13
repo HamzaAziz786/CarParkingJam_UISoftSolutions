@@ -32,10 +32,10 @@ public class LevelCompleteManager : MonoBehaviour
     public void LevelComplete(float time)
     {
 
+        SoundsManager.instance.StopMusic();
         if (_levelCompleteCor != null)
             StopCoroutine(_levelCompleteCor);
         _levelCompleteCor = StartCoroutine(DelayLevelComplete(time));
-
 
     }
 
