@@ -10,7 +10,7 @@ public class LoadingBar : MonoBehaviour
     private void OnEnable()
     {
         LoadingBarImg.transform.localScale = new Vector3(0,1,1);
-        LoadingBarImg.transform.DOScaleX(1, 8f).OnComplete(() => HidePanell());
+        LoadingBarImg.transform.DOScaleX(1, 10f).OnComplete(() => HidePanell());
     }
     public void HidePanell()
     {
