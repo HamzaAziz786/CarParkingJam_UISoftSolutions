@@ -33,7 +33,7 @@ public class MenuManager : MonoBehaviour
     {
         Time.timeScale = 1;
         instance = this;
-
+        AdsController.instance.ShowAd(AdType.BANNER, 0);
         if (PlayerPrefs.GetInt("once1") == 0)
         {
 
