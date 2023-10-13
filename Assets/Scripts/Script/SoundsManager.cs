@@ -54,7 +54,14 @@ public class SoundsManager : MonoBehaviour
         @as.volume = 1f;
         PlaySound(levelWinSound, @as);
     }
-
+    public void StopMusic()
+    {
+        bg.enabled = false;
+    }
+    public void StartMusic()
+    {
+        bg.enabled = true;
+    }
     public void PlayLevelFailSound(AudioSource @as)
     {
         if (@as == null)
