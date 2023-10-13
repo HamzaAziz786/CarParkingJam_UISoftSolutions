@@ -44,7 +44,8 @@ public class GameManager : MonoBehaviour
     {
         HamzaFunction();
         LevelManager.Instance.levelCreateFuncEvent += SetGamePlayLevelNumber;
-        AdsController.instance.ShowAd(AdType.BANNER, 0);
+        if(!LevelManager.Instance.TestLevel)
+            AdsController.instance.ShowAd(AdType.BANNER, 0);
 
 
     }
@@ -186,8 +187,15 @@ public class GameManager : MonoBehaviour
 
     public void NextBtn()
     {
-        AdsController.instance.ShowAd(AdNetwork.ADMOB, AdType.INTERSTITIAL);
-        Invoke(nameof(NextLevel), .5f);
+        if (!LevelManager.Instance.TestLevel)
+        {
+            AdsController.instance.ShowAd(AdNetwork.ADMOB, AdType.INTERSTITIAL);
+            Invoke(nameof(NextLevel), .5f);
+        }
+        else
+        {
+            NextLevel();
+        }
 
     }
     public void NextLevel()
@@ -221,8 +229,15 @@ public class GameManager : MonoBehaviour
     }
     public void GoMenu()
     {
-        AdsController.instance.ShowAd(AdNetwork.ADMOB, AdType.INTERSTITIAL);
-        Invoke(nameof(SceneLoad), .3f);
+        if(!LevelManager.Instance.TestLevel)
+        {
+            AdsController.instance.ShowAd(AdNetwork.ADMOB, AdType.INTERSTITIAL);
+            Invoke(nameof(SceneLoad), .3f);
+        }
+        else
+        {
+            SceneLoad();
+        }
     }
     public void SceneLoad()
     {
