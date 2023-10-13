@@ -22,7 +22,7 @@ public class GameManager : MonoBehaviour
     public UIManager ui;
     public LevelCompleteManager levelCompleteManager;
     public GameOverManager gameOverManager;
-    
+
 
     public delegate void GameStarFunc();
     public GameStarFunc GameStarFuncEvent;
@@ -33,7 +33,7 @@ public class GameManager : MonoBehaviour
     public int CurrentLevel;
     public GameObject Tutorial;
 
-    
+
     private void Awake()
     {
         Instance = this;
@@ -45,7 +45,7 @@ public class GameManager : MonoBehaviour
         HamzaFunction();
         LevelManager.Instance.levelCreateFuncEvent += SetGamePlayLevelNumber;
         AdsController.instance.ShowAd(AdType.BANNER, 0);
-        
+
 
     }
 
@@ -54,10 +54,10 @@ public class GameManager : MonoBehaviour
         LevelManager.Instance.levelCreateFuncEvent -= SetGamePlayLevelNumber;
     }
 
-    private void  SetGamePlayLevelNumber(int Level)
+    private void SetGamePlayLevelNumber(int Level)
     {
         CurrentLevel = Level;
-        
+
 
     }
 
@@ -130,6 +130,60 @@ public class GameManager : MonoBehaviour
     {
         Time.timeScale = 1;
     }
+    public void SkipLevel()
+    {
+
+        if (AdsController.instance.admobController.IsRewardedAdLoaded())
+        {
+            AdsController.instance.LoadingPanel.SetActive(true);
+            Invoke(nameof(Reward), 8f);
+        }
+        else
+        {
+            AdsController.instance.LoadingPanel.SetActive(true);
+            AdsController.instance.admobController.RequestRewardedAd();
+            Invoke(nameof(Reward), 8f);
+        }
+
+    }
+
+    public void Reward()
+    {
+        AdsController.instance.ShowAd(AdNetwork.ADMOB, AdType.REWARDED, SkipLevelReward);
+    }
+
+
+    public void SkipLevelReward()
+    {
+        var lvl = GameData.GetLevelNumber();
+       
+        if ((lvl % (LevelManager.Instance.Levels.Count) == 0))
+        {
+
+
+            LevelManager.Instance.LevelsArrayReshuffle();
+
+        }
+
+        lvl++;
+
+        GameData.SetLevelNumber(lvl);
+
+        lvl = GameData.GetLevelNumberIndex();
+        lvl++;
+        if ((lvl) > (LevelManager.Instance.Levels.Count))
+            lvl = 1;
+        GameData.SetLevelNumberIndex(lvl);
+
+        //gameResetFuncEvent();
+
+        LoadSceneFunction("ParkingJam");
+
+
+        //UIManager will handle the UI On Off Setting using event system if consfusion? visit it
+    }
+
+
     public void NextBtn()
     {
         var lvl = GameData.GetLevelNumber();
