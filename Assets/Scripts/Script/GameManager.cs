@@ -186,8 +186,13 @@ public class GameManager : MonoBehaviour
 
     public void NextBtn()
     {
-        var lvl = GameData.GetLevelNumber();
         AdsController.instance.ShowAd(AdNetwork.ADMOB, AdType.INTERSTITIAL);
+        Invoke(nameof(NextLevel), .5f);
+
+    }
+    public void NextLevel()
+    {
+        var lvl = GameData.GetLevelNumber();
         if ((lvl % (LevelManager.Instance.Levels.Count) == 0))
         {
 
@@ -212,7 +217,6 @@ public class GameManager : MonoBehaviour
 
 
         //UIManager will handle the UI On Off Setting using event system if consfusion? visit it
-
 
     }
     public void GoMenu()
