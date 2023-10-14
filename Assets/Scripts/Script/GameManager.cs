@@ -47,7 +47,7 @@ public class GameManager : MonoBehaviour
         if(!LevelManager.Instance.TestLevel)
             AdsController.instance.ShowAd(AdType.BANNER, 0);
 
-
+        Firebase_Analytics.Instance.LogEvent("Level_Start"+LevelManager.Instance.levelCreateFuncEvent);
     }
 
     private void OnDestroy()
@@ -81,6 +81,7 @@ public class GameManager : MonoBehaviour
     public void SetLevelCompleteState()
     {
         gamestate = GameState.LevelComplete;
+        Firebase_Analytics.Instance.LogEvent("Level_Complete" + LevelManager.Instance.levelCreateFuncEvent);
     }
     public bool IsMainMenuState()
     {
@@ -133,7 +134,7 @@ public class GameManager : MonoBehaviour
     }
     public void SkipLevel()
     {
-
+        Firebase_Analytics.Instance.LogEvent("SkipLevel");
         if (AdsController.instance.admobController.IsRewardedAdLoaded())
         {
             AdsController.instance.LoadingPanel.SetActive(true);
@@ -200,7 +201,7 @@ public class GameManager : MonoBehaviour
     }
     public void NextLevel()
     {
-
+        Firebase_Analytics.Instance.LogEvent("NextLevel");
         var lvl = GameData.GetLevelNumber();
         if ((lvl % (LevelManager.Instance.Levels.Count) == 0))
         {
@@ -230,7 +231,8 @@ public class GameManager : MonoBehaviour
     }
     public void GoMenu()
     {
-        if(!LevelManager.Instance.TestLevel)
+        Firebase_Analytics.Instance.LogEvent("Home");
+        if (!LevelManager.Instance.TestLevel)
         {
             AdsController.instance.ShowAd(AdNetwork.ADMOB, AdType.INTERSTITIAL);
             Invoke(nameof(SceneLoad), .3f);

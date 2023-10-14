@@ -48,7 +48,7 @@ public class MenuManager : MonoBehaviour
         AudioListener.volume = PlayerPrefs.GetFloat("volume");
 
         Screen.sleepTimeout = SleepTimeout.NeverSleep;
-        
+        Firebase_Analytics.Instance.LogEvent("MainMenu");
 
     }
 
@@ -189,8 +189,12 @@ public class MenuManager : MonoBehaviour
         {
             yield return null;
         }
+        Firebase_Analytics.Instance.LogEvent("PlayGame");
     }
-
+    public void PlayChallenges()
+    {
+        Firebase_Analytics.Instance.LogEvent("ChallengesMode");
+    }
     private void Update()
     {
 

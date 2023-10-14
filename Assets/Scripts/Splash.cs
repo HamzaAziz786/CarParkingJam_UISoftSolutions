@@ -26,7 +26,7 @@ public class Splash : MonoBehaviour
         {
             StartCoroutine(ActiveLoading());
         }
-
+        Firebase_Analytics.Instance.LogEvent("Splash");
     }
 
     public void SubmitBtnClick()
