@@ -872,7 +872,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 69173fbf8cfd1ad49abefdd28724c181, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  testMode: 1
+  testMode: 0
   admobController: {fileID: 670561594}
   isAdInitialized: 0
   unityAdsID: 
