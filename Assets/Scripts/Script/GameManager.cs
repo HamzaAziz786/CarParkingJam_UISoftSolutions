@@ -46,8 +46,8 @@ public class GameManager : MonoBehaviour
         LevelManager.Instance.levelCreateFuncEvent += SetGamePlayLevelNumber;
         if(!LevelManager.Instance.TestLevel)
             AdsController.instance.ShowAd(AdType.BANNER, 0);
-
-        Firebase_Analytics.Instance.LogEvent("Level_Start"+LevelManager.Instance.levelCreateFuncEvent);
+      
+        
     }
 
     private void OnDestroy()
@@ -58,7 +58,7 @@ public class GameManager : MonoBehaviour
     private void SetGamePlayLevelNumber(int Level)
     {
         CurrentLevel = Level;
-
+        Firebase_Analytics.Instance.LogEvent("Level_Start" + CurrentLevel);
 
     }
 
@@ -81,7 +81,7 @@ public class GameManager : MonoBehaviour
     public void SetLevelCompleteState()
     {
         gamestate = GameState.LevelComplete;
-        Firebase_Analytics.Instance.LogEvent("Level_Complete" + LevelManager.Instance.levelCreateFuncEvent);
+        Firebase_Analytics.Instance.LogEvent("Level_Complete" + CurrentLevel);
     }
     public bool IsMainMenuState()
     {
