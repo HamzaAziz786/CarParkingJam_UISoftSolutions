@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "288068722797",
+    "project_id": "parking-jam-db614",
+    "storage_bucket": "parking-jam-db614.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:288068722797:android:88225664a14bddae871f64",
+        "android_client_info": {
+          "package_name": "com.parkingjam.swipenclear.parking.puzzle.games"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcyih6t9XXzz6d17wU7KZ2eQgdtFzhCD4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
