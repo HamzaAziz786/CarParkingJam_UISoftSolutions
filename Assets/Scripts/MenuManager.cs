@@ -28,6 +28,7 @@ public class MenuManager : MonoBehaviour
     public Text[] CashTxt;
     public static MenuManager instance;
     public Slider vol;
+    public GameObject ComingSoon;
     public static bool ParkingJam;
     private void Start()
     {
@@ -232,5 +233,15 @@ public class MenuManager : MonoBehaviour
     public void PanelON(GameObject paneloff)
     {
        // paneloff.SetActive(true);
+    }
+    public void ComingSoonOn()
+    {
+       
+        ComingSoon.transform.DOScale(1, .2f).SetEase(Ease.OutBounce);
+        Invoke(nameof(BackComingSoon), .7f);
+    }
+    public void BackComingSoon()
+    {
+        ComingSoon.transform.DOScale(0, .2f).SetEase(Ease.InBounce);
     }
 }
