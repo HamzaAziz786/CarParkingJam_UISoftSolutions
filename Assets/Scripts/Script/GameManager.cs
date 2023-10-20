@@ -32,8 +32,7 @@ public class GameManager : MonoBehaviour
 
     public int CurrentLevel;
     public GameObject Tutorial;
-
-
+    int lvl_no;
     private void Awake()
     {
         Instance = this;
@@ -188,7 +187,8 @@ public class GameManager : MonoBehaviour
 
     public void NextBtn()
     {
-        if (!LevelManager.Instance.TestLevel)
+        lvl_no = GameData.GetLevelNumber();
+        if (!LevelManager.Instance.TestLevel && lvl_no >= 3)
         {
             AdsController.instance.ShowAd(AdNetwork.ADMOB, AdType.INTERSTITIAL);
             Invoke(nameof(NextLevel), .5f);
@@ -234,7 +234,7 @@ public class GameManager : MonoBehaviour
         Firebase_Analytics.Instance.LogEvent("Home");
         if (!LevelManager.Instance.TestLevel)
         {
-            AdsController.instance.ShowAd(AdNetwork.ADMOB, AdType.INTERSTITIAL);
+            //AdsController.instance.ShowAd(AdNetwork.ADMOB, AdType.INTERSTITIAL);
             Invoke(nameof(SceneLoad), .3f);
         }
         else
