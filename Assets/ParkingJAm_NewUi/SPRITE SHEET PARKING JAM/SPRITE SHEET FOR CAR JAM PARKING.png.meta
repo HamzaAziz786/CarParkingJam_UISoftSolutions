@@ -209,6 +209,9 @@ TextureImporter:
   - first:
       213: -2879968287787804588
     second: SPRITE SHEET FOR CAR JAM PARKING_68
+  - first:
+      213: 2234106340498879126
+    second: SPRITE SHEET FOR CAR JAM PARKING_69
   externalObjects: {}
   serializedVersion: 12
   mipmaps:
@@ -377,10 +380,10 @@ TextureImporter:
       name: SPRITE SHEET FOR CAR JAM PARKING_4
       rect:
         serializedVersion: 2
-        x: 11
-        y: 578
-        width: 92
-        height: 91
+        x: 12
+        y: 565
+        width: 107
+        height: 107
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 31, y: 29, z: 29, w: 35}
@@ -419,13 +422,13 @@ TextureImporter:
       name: SPRITE SHEET FOR CAR JAM PARKING_6
       rect:
         serializedVersion: 2
-        x: 9
-        y: 508
-        width: 180
-        height: 62
+        x: 466
+        y: 97
+        width: 186
+        height: 63
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 61, y: 20, z: 64, w: 14}
+      border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
@@ -440,13 +443,13 @@ TextureImporter:
       name: SPRITE SHEET FOR CAR JAM PARKING_7
       rect:
         serializedVersion: 2
-        x: 198
-        y: 507
-        width: 179
+        x: 126
+        y: 508
+        width: 243
         height: 62
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
-      border: {x: 61, y: 0, z: 60, w: 14}
+      border: {x: 61, y: 15, z: 60, w: 14}
       outline: []
       physicsShape: []
       tessellationDetail: 0
@@ -1070,10 +1073,10 @@ TextureImporter:
       name: SPRITE SHEET FOR CAR JAM PARKING_36
       rect:
         serializedVersion: 2
-        x: 463
-        y: 171
-        width: 154
-        height: 153
+        x: 452
+        y: 184
+        width: 147
+        height: 146
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 69, y: 72, z: 67, w: 66}
@@ -1553,10 +1556,10 @@ TextureImporter:
       name: SPRITE SHEET FOR CAR JAM PARKING_59
       rect:
         serializedVersion: 2
-        x: 626
-        y: 248
-        width: 101
-        height: 105
+        x: 619
+        y: 250
+        width: 94
+        height: 101
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -1616,9 +1619,9 @@ TextureImporter:
       name: SPRITE SHEET FOR CAR JAM PARKING_62
       rect:
         serializedVersion: 2
-        x: 733
-        y: 309
-        width: 30
+        x: 716
+        y: 312
+        width: 31
         height: 29
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -1755,6 +1758,27 @@ TextureImporter:
       bones: []
       spriteID: 458940ad91c4808d0800000000000000
       internalID: -2879968287787804588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SPRITE SHEET FOR CAR JAM PARKING_69
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 297
+        width: 54
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69232ef31e3210f10800000000000000
+      internalID: 2234106340498879126
       vertices: []
       indices: 
       edges: []
