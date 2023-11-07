@@ -126429,7 +126429,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4fb721543a4542d47992e89b21c4f7f5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  waypointNum: 1
+  waypointNum: 7
   player: {fileID: 0}
 --- !u!137 &8501426998509983380
 SkinnedMeshRenderer:
@@ -133530,7 +133530,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4fb721543a4542d47992e89b21c4f7f5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  waypointNum: 8
+  waypointNum: 0
   player: {fileID: 0}
 --- !u!23 &8962126217974772118
 MeshRenderer:
