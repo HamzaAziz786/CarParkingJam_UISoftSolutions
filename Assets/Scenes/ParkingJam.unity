@@ -42672,9 +42672,11 @@ MonoBehaviour:
   - {fileID: 1796527124628065920}
   - {fileID: 1796527124856220105}
   - {fileID: 1454629931941571014}
-  Cars: []
-  Hurdles_IncreaseSize: 0
-  Car_IncreaseSize: 0
+  Cars:
+  - {fileID: 2376569524095553180}
+  - {fileID: 3856958394436652315}
+  Hurdles_IncreaseSize: 3
+  Car_IncreaseSize: 3
 --- !u!1 &1189687859596398653
 GameObject:
   m_ObjectHideFlags: 0
@@ -104939,7 +104941,7 @@ Camera:
     height: 1
   near clip plane: 0.01
   far clip plane: 1000
-  field of view: 48.7
+  field of view: 39
   orthographic: 0
   orthographic size: 5
   m_Depth: -1
