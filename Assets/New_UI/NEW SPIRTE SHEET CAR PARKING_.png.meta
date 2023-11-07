@@ -1,0 +1,1105 @@
+fileFormatVersion: 2
+guid: 428417a3e4d0e7043ba2b6e5ac51190a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5725466349321358129
+    second: NEW SPIRTE SHEET CAR PARKING__0
+  - first:
+      213: 3842947686969596926
+    second: NEW SPIRTE SHEET CAR PARKING__1
+  - first:
+      213: -268288870836014518
+    second: NEW SPIRTE SHEET CAR PARKING__2
+  - first:
+      213: -5898955622852484268
+    second: NEW SPIRTE SHEET CAR PARKING__3
+  - first:
+      213: 5111653495189493542
+    second: NEW SPIRTE SHEET CAR PARKING__4
+  - first:
+      213: -7905147380898102436
+    second: NEW SPIRTE SHEET CAR PARKING__5
+  - first:
+      213: 2828661608549585269
+    second: NEW SPIRTE SHEET CAR PARKING__7
+  - first:
+      213: 7675549091734749117
+    second: NEW SPIRTE SHEET CAR PARKING__8
+  - first:
+      213: -8800010573346378108
+    second: NEW SPIRTE SHEET CAR PARKING__11
+  - first:
+      213: -7569733385623155038
+    second: NEW SPIRTE SHEET CAR PARKING__12
+  - first:
+      213: 8213334278691718375
+    second: NEW SPIRTE SHEET CAR PARKING__14
+  - first:
+      213: -7170495596728200343
+    second: NEW SPIRTE SHEET CAR PARKING__15
+  - first:
+      213: -5905617465176523189
+    second: NEW SPIRTE SHEET CAR PARKING__16
+  - first:
+      213: 2612924551785934537
+    second: NEW SPIRTE SHEET CAR PARKING__17
+  - first:
+      213: 8048892014302565309
+    second: NEW SPIRTE SHEET CAR PARKING__18
+  - first:
+      213: 2138980646039124578
+    second: NEW SPIRTE SHEET CAR PARKING__19
+  - first:
+      213: 6399390018778832058
+    second: NEW SPIRTE SHEET CAR PARKING__25
+  - first:
+      213: 8717974402837599286
+    second: NEW SPIRTE SHEET CAR PARKING__27
+  - first:
+      213: 2987734132183906732
+    second: NEW SPIRTE SHEET CAR PARKING__29
+  - first:
+      213: -8067321723767948959
+    second: NEW SPIRTE SHEET CAR PARKING__30
+  - first:
+      213: 8751648066749584643
+    second: NEW SPIRTE SHEET CAR PARKING__31
+  - first:
+      213: 5640539423301814651
+    second: NEW SPIRTE SHEET CAR PARKING__32
+  - first:
+      213: -2859563764767833605
+    second: NEW SPIRTE SHEET CAR PARKING__40
+  - first:
+      213: 2294187822282433610
+    second: NEW SPIRTE SHEET CAR PARKING__42
+  - first:
+      213: 5145702701948166041
+    second: NEW SPIRTE SHEET CAR PARKING__43
+  - first:
+      213: -3716677828606969199
+    second: NEW SPIRTE SHEET CAR PARKING__6
+  - first:
+      213: -2186793312874437703
+    second: NEW SPIRTE SHEET CAR PARKING__9
+  - first:
+      213: -8313015301526471351
+    second: NEW SPIRTE SHEET CAR PARKING__10
+  - first:
+      213: -7748843094776025636
+    second: NEW SPIRTE SHEET CAR PARKING__13
+  - first:
+      213: -4547824167409593429
+    second: NEW SPIRTE SHEET CAR PARKING__20
+  - first:
+      213: -4240859622643798751
+    second: NEW SPIRTE SHEET CAR PARKING__21
+  - first:
+      213: 2772172091005016070
+    second: NEW SPIRTE SHEET CAR PARKING__22
+  - first:
+      213: 156599966527027912
+    second: NEW SPIRTE SHEET CAR PARKING__23
+  - first:
+      213: -7347958568431581021
+    second: NEW SPIRTE SHEET CAR PARKING__24
+  - first:
+      213: 3430682703498778270
+    second: NEW SPIRTE SHEET CAR PARKING__26
+  - first:
+      213: -5577907479842398355
+    second: NEW SPIRTE SHEET CAR PARKING__28
+  - first:
+      213: 7137489819062178079
+    second: NEW SPIRTE SHEET CAR PARKING__33
+  - first:
+      213: 1247657803296997413
+    second: NEW SPIRTE SHEET CAR PARKING__34
+  - first:
+      213: -6138087840473059546
+    second: NEW SPIRTE SHEET CAR PARKING__35
+  - first:
+      213: -344042526641657616
+    second: NEW SPIRTE SHEET CAR PARKING__36
+  - first:
+      213: 4740895104760959008
+    second: NEW SPIRTE SHEET CAR PARKING__37
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: 50
+    textureCompression: 1
+    compressionQuality: 100
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: NEW SPIRTE SHEET CAR PARKING__0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 686
+        width: 207
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc47f3ba0be0b80b0800000000000000
+      internalID: -5725466349321358129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEW SPIRTE SHEET CAR PARKING__1
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 690
+        width: 185
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efb5b3c7f84e45530800000000000000
+      internalID: 3842947686969596926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEW SPIRTE SHEET CAR PARKING__2
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 696
+        width: 229
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a42f0a481b8d64cf0800000000000000
+      internalID: -268288870836014518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEW SPIRTE SHEET CAR PARKING__3
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 693
+        width: 189
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 453a5127d13b22ea0800000000000000
+      internalID: -5898955622852484268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEW SPIRTE SHEET CAR PARKING__4
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 729
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62757ab65cd30f640800000000000000
+      internalID: 5111653495189493542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEW SPIRTE SHEET CAR PARKING__5
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 728
+        width: 40
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c53857027564b4290800000000000000
+      internalID: -7905147380898102436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEW SPIRTE SHEET CAR PARKING__7
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 729
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 571126ffebc614720800000000000000
+      internalID: 2828661608549585269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEW SPIRTE SHEET CAR PARKING__8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 588
+        width: 90
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbffbec6b37058a60800000000000000
+      internalID: 7675549091734749117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEW SPIRTE SHEET CAR PARKING__11
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 645
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48ee10c020510e580800000000000000
+      internalID: -8800010573346378108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEW SPIRTE SHEET CAR PARKING__12
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 628
+        width: 210
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ae44898797e2f690800000000000000
+      internalID: -7569733385623155038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEW SPIRTE SHEET CAR PARKING__14
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 617
+        width: 56
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e485f6a200abf170800000000000000
+      internalID: 8213334278691718375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEW SPIRTE SHEET CAR PARKING__15
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 624
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9635385ee384d7c90800000000000000
+      internalID: -7170495596728200343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEW SPIRTE SHEET CAR PARKING__16
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 625
+        width: 51
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4e7fc864380b0ea0800000000000000
+      internalID: -5905617465176523189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEW SPIRTE SHEET CAR PARKING__17
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 650
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cee8163909f24420800000000000000
+      internalID: 2612924551785934537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEW SPIRTE SHEET CAR PARKING__18
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 642
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db39bf364a863bf60800000000000000
+      internalID: 8048892014302565309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEW SPIRTE SHEET CAR PARKING__19
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 641
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26af894909f2fad10800000000000000
+      internalID: 2138980646039124578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEW SPIRTE SHEET CAR PARKING__25
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 573
+        width: 104
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abc1e7011533fc850800000000000000
+      internalID: 6399390018778832058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEW SPIRTE SHEET CAR PARKING__27
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 550
+        width: 57
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 634551297877cf870800000000000000
+      internalID: 8717974402837599286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEW SPIRTE SHEET CAR PARKING__29
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 566
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca9b1201d50967920800000000000000
+      internalID: 2987734132183906732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEW SPIRTE SHEET CAR PARKING__30
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 574
+        width: 101
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 169f40e72ad1b0090800000000000000
+      internalID: -8067321723767948959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEW SPIRTE SHEET CAR PARKING__31
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 492
+        width: 77
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 305d7d96c89147970800000000000000
+      internalID: 8751648066749584643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEW SPIRTE SHEET CAR PARKING__32
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 509
+        width: 96
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b79cd7b78b8374e40800000000000000
+      internalID: 5640539423301814651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEW SPIRTE SHEET CAR PARKING__40
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 433
+        width: 148
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf14f6418e9c058d0800000000000000
+      internalID: -2859563764767833605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEW SPIRTE SHEET CAR PARKING__42
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 436
+        width: 220
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a44eb235ba796df10800000000000000
+      internalID: 2294187822282433610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEW SPIRTE SHEET CAR PARKING__43
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 413
+        width: 113
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99f53652855396740800000000000000
+      internalID: 5145702701948166041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEW SPIRTE SHEET CAR PARKING__6
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 606
+        width: 243
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19abf49e435bb6cc0800000000000000
+      internalID: -3716677828606969199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEW SPIRTE SHEET CAR PARKING__9
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 543
+        width: 211
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b36bec6113f6a1e0800000000000000
+      internalID: -2186793312874437703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEW SPIRTE SHEET CAR PARKING__10
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 580
+        width: 39
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94db024a0ac32ac80800000000000000
+      internalID: -8313015301526471351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEW SPIRTE SHEET CAR PARKING__13
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 560
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdde2aba244967490800000000000000
+      internalID: -7748843094776025636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEW SPIRTE SHEET CAR PARKING__20
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 552
+        width: 55
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba35d90e302e2e0c0800000000000000
+      internalID: -4547824167409593429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEW SPIRTE SHEET CAR PARKING__21
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 565
+        width: 37
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12de40a64a07525c0800000000000000
+      internalID: -4240859622643798751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEW SPIRTE SHEET CAR PARKING__22
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 557
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6081b9444dbb87620800000000000000
+      internalID: 2772172091005016070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEW SPIRTE SHEET CAR PARKING__23
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 482
+        width: 63
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ca7ea007da5c2200800000000000000
+      internalID: 156599966527027912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEW SPIRTE SHEET CAR PARKING__24
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 515
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a80958fc9ec60a90800000000000000
+      internalID: -7347958568431581021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEW SPIRTE SHEET CAR PARKING__26
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 506
+        width: 210
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e961f170ebb3c9f20800000000000000
+      internalID: 3430682703498778270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEW SPIRTE SHEET CAR PARKING__28
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 384
+        width: 88
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6fdff933ba4792b0800000000000000
+      internalID: -5577907479842398355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEW SPIRTE SHEET CAR PARKING__33
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 383
+        width: 89
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f111b25ac257d0360800000000000000
+      internalID: 7137489819062178079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEW SPIRTE SHEET CAR PARKING__34
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 453
+        width: 38
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52003c66922905110800000000000000
+      internalID: 1247657803296997413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEW SPIRTE SHEET CAR PARKING__35
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 449
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62f657c41a121daa0800000000000000
+      internalID: -6138087840473059546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEW SPIRTE SHEET CAR PARKING__36
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 448
+        width: 40
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f865e31527b93bf0800000000000000
+      internalID: -344042526641657616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: NEW SPIRTE SHEET CAR PARKING__37
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 450
+        width: 38
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0205aacbafa0bc140800000000000000
+      internalID: 4740895104760959008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

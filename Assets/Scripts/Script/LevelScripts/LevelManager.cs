@@ -162,11 +162,11 @@ public class LevelManager : MonoBehaviour
         
         var prefab = Levels[indexLevel];
         prefab.gameObject.SetActive(false);
-        var li = Instantiate(prefab, new Vector3(-3.579486f, 0.295979f, -.7829592f), Quaternion.identity);
+        var li = Instantiate(prefab, new Vector3(0f,0f, 0f), Quaternion.identity);
         li.gameObject.SetActive(true);
         
         var transform1 = li.transform;
-        transform1.position = new Vector3(-3.579486f, 0.295979f, -.7829592f);
+        transform1.position = new Vector3(0, 0,0);
         transform1.eulerAngles = Vector3.zero;
         transform1.localScale = Vector3.one;
 

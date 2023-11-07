@@ -3,7 +3,11 @@ using UnityEngine;
 public class CarCounter : MonoBehaviour
 {
     public DelegateEventScriptableObject Counter;
-
+    public static CarCounter instance;
+    public void Awake()
+    {
+        instance = this;
+    }
     private void OnTriggerEnter(Collider other)
     {
         if (!other.CompareTag("Player")) return;

@@ -33,6 +33,7 @@ public class GameManager : MonoBehaviour
     public int CurrentLevel;
     public GameObject Tutorial;
     int lvl_no;
+    public bool IsDestroyCar;
     private void Awake()
     {
         Instance = this;
@@ -57,7 +58,7 @@ public class GameManager : MonoBehaviour
     private void SetGamePlayLevelNumber(int Level)
     {
         CurrentLevel = Level;
-        Firebase_Analytics.Instance.LogEvent("Level_Start" + CurrentLevel);
+        //Firebase_Analytics.Instance.LogEvent("Level_Start" + CurrentLevel);
 
     }
 
@@ -80,7 +81,7 @@ public class GameManager : MonoBehaviour
     public void SetLevelCompleteState()
     {
         gamestate = GameState.LevelComplete;
-        Firebase_Analytics.Instance.LogEvent("Level_Complete" + CurrentLevel);
+        //Firebase_Analytics.Instance.LogEvent("Level_Complete" + CurrentLevel);
     }
     public bool IsMainMenuState()
     {
@@ -112,7 +113,18 @@ public class GameManager : MonoBehaviour
         SetMainMenuState();
         //UIManager will handle the UI On Off Setting using event system if consfusion? visit it
     }
-
+    public void OnHurdles()
+    {
+        LevelInfo.instance.EnableHurdles();
+    }
+    public void offHurdles()
+    {
+        LevelInfo.instance.DisbaleHurdles();
+    }
+    public void DestroyCar()
+    {
+        IsDestroyCar = true;
+    }
     public void RetryBtn()
     {
         GameResetFuncEvent.Invoke();

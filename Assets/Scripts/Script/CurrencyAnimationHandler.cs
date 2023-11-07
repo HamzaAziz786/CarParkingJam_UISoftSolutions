@@ -11,7 +11,7 @@ public class CurrencyAnimationHandler : MonoBehaviour
     public Transform CoinTarget;
     private List<GameObject> Coins = new List<GameObject>();
     public static CurrencyAnimationHandler instance;
-    private List<AudioSource> sound = new List<AudioSource>();
+    public List<AudioSource> sound = new List<AudioSource>();
     public AudioClip clip;
     private void Awake()
     {
@@ -28,8 +28,8 @@ public class CurrencyAnimationHandler : MonoBehaviour
             Coins.Add(obj);
             obj.transform.SetParent(CoinParent);
             obj.gameObject.SetActive(false);
-            if (obj.GetComponent<AudioSource>() != null)
-                sound.Add(obj.GetComponent<AudioSource>());
+            //if (obj.GetComponent<AudioSource>() != null)
+            //    sound.Add(obj.GetComponent<AudioSource>());
         }
     }
 
@@ -56,7 +56,7 @@ public class CurrencyAnimationHandler : MonoBehaviour
             t.transform.DOScale(finalScale, speedTime).SetDelay(total).SetEase(Ease.Linear);
             StartCoroutine(OnOffObj(t.gameObject, false, speedTime + total));
             total += ad;
-            StartCoroutine(PlaySounds());
+            //StartCoroutine(PlaySounds());
         }
         StartCoroutine(DelayUpdateUI(total + speedTime));
 

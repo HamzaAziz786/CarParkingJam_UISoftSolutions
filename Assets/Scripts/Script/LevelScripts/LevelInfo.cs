@@ -1,6 +1,6 @@
 using System.Collections;
 using UnityEngine;
-
+using DG.Tweening;
 public class LevelInfo : MonoBehaviour
 {
     public DelegateEventScriptableObject Couner;
@@ -8,7 +8,14 @@ public class LevelInfo : MonoBehaviour
     public int Total_Cars;
     public int Car_Crossed;
     public GameObject Confettii;
+    public GameObject[] Hurdles;
+    public static LevelInfo instance;
 
+    private void Awake()
+    {
+        if (instance == null)
+            instance = this;
+    }
     private void OnEnable()
     {
         Couner.Add_Count += Add;
@@ -17,7 +24,21 @@ public class LevelInfo : MonoBehaviour
     {
         Couner.Add_Count -= Add;
     }
-
+    public void DisbaleHurdles()
+    {
+        for (int i = 0; i < Hurdles.Length; i++)
+        {
+            Hurdles[i].transform.DOScale(0, Random.Range(0.1f, .5f)).SetEase(Ease.OutBounce);
+        }
+    }
+    public void EnableHurdles()
+    {
+        for (int i = 0; i < Hurdles.Length; i++)
+        {
+            //Hurdles[i].gameObject.SetActive(true);
+            Hurdles[i].transform.DOScale(1, Random.Range(0.1f, .5f)).SetEase(Ease.OutBounce);
+        }
+    }
     private void Add(int num)
     {
         Car_Crossed += num;
