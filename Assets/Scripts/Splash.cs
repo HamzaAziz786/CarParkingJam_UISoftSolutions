@@ -53,7 +53,7 @@ public class Splash : MonoBehaviour
 
     private IEnumerator LoadYourAsyncScene()
     {
-        yield return new WaitForSecondsRealtime(1f);
+        yield return new WaitForSecondsRealtime(9f);
         _asyncLoad = SceneManager.LoadSceneAsync("MainMenu");
 
         // Wait until the asynchronous scene fully loads
