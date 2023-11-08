@@ -30,11 +30,13 @@ public class MenuManager : MonoBehaviour
     public Slider vol;
     public GameObject ComingSoon;
     public static bool ParkingJam;
+    public GameObject Current_GameObject;
+    
     private void Start()
     {
         Time.timeScale = 1;
         instance = this;
-        AdsController.instance.ShowAd(AdType.BANNER, 0);
+        AdsController.instance.ShowAd(AdType.BANNER, 1);
         if (PlayerPrefs.GetInt("once1") == 0)
         {
 
@@ -219,22 +221,25 @@ public class MenuManager : MonoBehaviour
     }
     public void ClosePanel(GameObject Panel)
     {
-        Panel.transform.DOScale(0, .2f).OnComplete(() => PanelOFF(Panel)).SetEase(Ease.Linear); 
+        Current_GameObject.transform.DOLocalMoveX(-1061, .3f).OnComplete(() => paneloff())
+            .SetEase(Ease.Linear);
+        Current_GameObject = Panel;
+    }
+    public void paneloff()
+    {
+        Current_GameObject.SetActive(false);
     }
 
-    public void PanelOFF(GameObject paneloff)
-    {
-       // paneloff.SetActive(false);
-    }
     public void OpenPanel(GameObject Panel)
     {
-        Panel.transform.DOScale(1, .2f).OnComplete(() => PanelON(Panel)).SetEase(Ease.Linear);
+        
+        Current_GameObject = Panel;
+        Current_GameObject.SetActive(true);
+       
+        Current_GameObject.transform.DOLocalMoveX(0, .4f).SetEase(Ease.Linear);
     }
 
-    public void PanelON(GameObject paneloff)
-    {
-       // paneloff.SetActive(true);
-    }
+    
     public void ComingSoonOn()
     {
        
