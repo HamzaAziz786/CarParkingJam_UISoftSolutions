@@ -183,6 +183,7 @@ public class MenuManager : MonoBehaviour
 
     private IEnumerator LoadYourAsyncScene()
     {
+        yield return new WaitForSeconds(9f);
         if(ParkingJam)
             _asyncLoad = SceneManager.LoadSceneAsync("ParkingJam");
 

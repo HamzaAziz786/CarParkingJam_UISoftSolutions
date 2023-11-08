@@ -47391,6 +47391,9 @@ MonoBehaviour:
   - {fileID: 1796527125432483211}
   - {fileID: 1796527125124504258}
   - {fileID: 1454629932210182861}
+  Cars: []
+  Hurdles_IncreaseSize: 0
+  Car_IncreaseSize: 0
 --- !u!1 &1605846276789066671
 GameObject:
   m_ObjectHideFlags: 0
