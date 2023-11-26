@@ -6,12 +6,12 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/Splash.unity
+    path: Assets/GamePlayScenes/Splash.unity
     guid: 83cd315cac8b4415d898cf3ef9e99cc9
   - enabled: 1
-    path: Assets/Scenes/MainMenu.unity
+    path: Assets/GamePlayScenes/MainMenu.unity
     guid: 577b83cf58cfb884eb687989bde84782
   - enabled: 1
-    path: Assets/Scenes/ParkingJam.unity
+    path: Assets/GamePlayScenes/ParkingJam.unity
     guid: 03a4de0ac57c8410aab4ffebbc38c38e
   m_configObjects: {}
